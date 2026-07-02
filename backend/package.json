@@ -1,0 +1,12 @@
+{
+  "name": "backend-asistencia",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Servidor para gestión de asistencia escolar",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.21.0",
+    "mysql2": "^3.11.0",
+    "cors": "^2.8.5"
+  }
+} 
