@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-  base: '/sistema-asistencia-escolar/' // nombre exacto de tu repositorio
+  base: '/sistema-asistencia-escolar/' // ⚠️ NOMBRE EXACTO DE TU REPOSITORIO
 })
